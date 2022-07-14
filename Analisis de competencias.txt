@@ -1,0 +1,13 @@
+Google Trends --> Keywords y relevancia de una marca o empresa
+
+Semrush --> conocer la inversión aproximada de SEO y SEM de una web, el porcentaje de rebote, sus keywords orgánicas o datos de Facebook Ads
+
+Screaming Frog --> rastrea todos los links, imágenes, código CSS, enlaces rotos o metadescripciones de la propia web
+comprobar con qué keyword está posicionando la competencia cada una de las URLS de su sitio web. Cómo tienen estructurado el HTML de su página así como las meta descripciones
+
+Ahrefs --> averiguar qué estructura de keywords y enlaces posee tus empresas competidoras. Algunos de los resultados que muestra esta herramienta son los números de enlaces disponibles en ese sitio web y de qué tipo son cada uno de ellos: image, redirect, backlinks, referring domains
+
+
+
+
+Paginas grandes --> Similar web
